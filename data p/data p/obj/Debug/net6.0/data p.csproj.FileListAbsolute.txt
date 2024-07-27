@@ -1,0 +1,15 @@
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\bin\Debug\net6.0\data p.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\bin\Debug\net6.0\data p.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\bin\Debug\net6.0\data p.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\bin\Debug\net6.0\data p.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\bin\Debug\net6.0\data p.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\refint\data p.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\data p.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\data p\data p\obj\Debug\net6.0\ref\data p.dll

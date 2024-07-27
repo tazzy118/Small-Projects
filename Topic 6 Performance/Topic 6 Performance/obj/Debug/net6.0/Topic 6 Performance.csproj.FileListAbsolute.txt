@@ -1,0 +1,15 @@
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\bin\Debug\net6.0\Topic 6 Performance.exe
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\bin\Debug\net6.0\Topic 6 Performance.deps.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\bin\Debug\net6.0\Topic 6 Performance.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\bin\Debug\net6.0\Topic 6 Performance.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\bin\Debug\net6.0\Topic 6 Performance.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.csproj.AssemblyReference.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\refint\Topic 6 Performance.dll
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.pdb
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\Topic 6 Performance.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\C# Work\Topic 6 Performance\Topic 6 Performance\obj\Debug\net6.0\ref\Topic 6 Performance.dll
